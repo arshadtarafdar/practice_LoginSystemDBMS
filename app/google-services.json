@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "612715973873",
+    "firebase_url": "https://logindemo-f5125.firebaseio.com",
+    "project_id": "logindemo-f5125",
+    "storage_bucket": "logindemo-f5125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612715973873:android:8b1dd4bb7ed4bc85",
+        "android_client_info": {
+          "package_name": "learning.practice_loginsystemdbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612715973873-i826s850ds6vsfhpulglr6rrbdk1tvks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAHAwfO1H5PXsFPnNYuoqUMviW_jEJS1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
